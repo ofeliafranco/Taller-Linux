@@ -25,15 +25,15 @@ En el año en que fue realizado el juego, el sistema operativo,sólo admitía un
 > Torvalds?. ¿Y Richard Stallman? Acompaña aquí tu respuesta con una imagen de cada
 > uno de ellos (haz uso de la sintaxis de Markdown para ello).
 ### Respuesta
-Linus es un ingeniero de software finlandés-estadounidense,que desarrollo Linux, basándose en el sistema operativo libre ![](https://images.app.goo.gl/w1Yw85nHgdaCqxJm9){width='100px'}
-Nació en Manhattan, Nueva York, Estados Unidos. Es conocido por establecer el movimiento del software libre, una alternativa al desarrollo y distribución del software privativo. ![](https://historia-biografia.com/wp-content/uploads/2019/10/Stallaman.jpg){width='100px'}
+Linus es un ingeniero de software finlandés-estadounidense,que desarrollo Linux, basándose en el sistema operativo libre ![](https://www.linuxjournal.com/sites/default/files/styles/1700x1000/public/nodeimage/story/linus-small-w.jpg)
+Nació en Manhattan, Nueva York, Estados Unidos. Es conocido por establecer el movimiento del software libre, una alternativa al desarrollo y distribución del software privativo. ![](https://historia-biografia.com/wp-content/uploads/2019/10/Stallaman.jpg)
 ## Pregunta 6
 > Seguramente conoces quién es Pati Chapoy o Javier 'Chicharito' Hernandez. Pero, ¿conoces quién
 > es y qué hizo Miguel de Icaza? ¿Y Federico Mena? Acompaña aquí tu respuesta con una imagen de cada
 > uno de ellos (haz uso de la sintaxis de Markdown para ello).
 ### Respuesta
-Nacido en 1972, el mexicano Miguel de Icaza es mayormente conocido por haber fundado el proyecto de  software libre llamado «GNOME», pero también ha contribuido con el administrador de archivos «Midnight Commander» , la aplicación para plantillas de cálculos «Gnumeric», la plataforma de desarrollo «Mono» y el modelo de componentes «Bonobo».![](https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2013/03/Miguel-de-Icaza.jpg){width='100px'}
-Federico es un programador de software libre. Entre sus principales aportes destaca la fundación del proyecto GNOME junto a Miguel de Icaza en el año de 1997. ![](https://i.blogs.es/66f6b5/federico-mena/1366_2000.jpg){width='100px'}
+Nacido en 1972, el mexicano Miguel de Icaza es mayormente conocido por haber fundado el proyecto de  software libre llamado «GNOME», pero también ha contribuido con el administrador de archivos «Midnight Commander» , la aplicación para plantillas de cálculos «Gnumeric», la plataforma de desarrollo «Mono» y el modelo de componentes «Bonobo».![](https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2013/03/Miguel-de-Icaza.jpg)
+Federico es un programador de software libre. Entre sus principales aportes destaca la fundación del proyecto GNOME junto a Miguel de Icaza en el año de 1997. ![](https://i.blogs.es/66f6b5/federico-mena/1366_2000.jpg)
 
 ## Pregunta 7
 > ¿Es lo mismo 'software libre' que 'código abierto'?
